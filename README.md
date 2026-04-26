@@ -1,4 +1,4 @@
-# Coaxial-Drone---IntermediateProjec
+# Coaxial-Drone---IntermediateProject
 
 An aerodynamic, 3D-printable ducted fan drone featuring an active thrust vectoring system. This project utilizes a 4-vane cross configuration for precise Pitch, Roll, and Yaw control, governed by ArduPilot.
 
