@@ -22,7 +22,3 @@ Unlike traditional quadcopters, this drone operates as a "SingleCopter". The des
 * **Magnetometer:** QMC5883L.
 * **Receiver:** FlySky FS-X6B.
 * **Firmware:** ArduPilot 4.x (Target: `MatekF405-TE` / Frame Class: `SingleCopter`).
-
-## 📝 License
-
-This project is open-source and available under the MIT License.
